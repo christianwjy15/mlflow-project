@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/PycharmProjects/mlflow-project/mlflow-project/mlruns/0/56c5bddc3331451ca420814cd8c7a279/artifacts
+end_time: 1738923946032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56c5bddc3331451ca420814cd8c7a279
+run_name: glamorous-gull-286
+run_uuid: 56c5bddc3331451ca420814cd8c7a279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738923940269
+status: 4
+tags: []
+user_id: Christian

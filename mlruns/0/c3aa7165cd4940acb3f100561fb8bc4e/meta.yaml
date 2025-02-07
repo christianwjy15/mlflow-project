@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/PycharmProjects/mlflow-project/mlflow-project/mlruns/0/c3aa7165cd4940acb3f100561fb8bc4e/artifacts
+end_time: 1738924800838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3aa7165cd4940acb3f100561fb8bc4e
+run_name: redolent-moth-813
+run_uuid: c3aa7165cd4940acb3f100561fb8bc4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738924797460
+status: 4
+tags: []
+user_id: Christian

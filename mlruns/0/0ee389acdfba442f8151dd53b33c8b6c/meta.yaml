@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/PycharmProjects/mlflow-project/mlflow-project/mlruns/0/0ee389acdfba442f8151dd53b33c8b6c/artifacts
+end_time: 1738925185836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ee389acdfba442f8151dd53b33c8b6c
+run_name: gaudy-pig-830
+run_uuid: 0ee389acdfba442f8151dd53b33c8b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738925182625
+status: 4
+tags: []
+user_id: Christian
