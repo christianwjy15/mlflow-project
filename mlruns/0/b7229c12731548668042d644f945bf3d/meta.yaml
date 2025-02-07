@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/PycharmProjects/mlflow-project/mlflow-project/mlruns/0/b7229c12731548668042d644f945bf3d/artifacts
+end_time: 1738926476630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7229c12731548668042d644f945bf3d
+run_name: efficient-colt-641
+run_uuid: b7229c12731548668042d644f945bf3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738926472514
+status: 3
+tags: []
+user_id: Christian

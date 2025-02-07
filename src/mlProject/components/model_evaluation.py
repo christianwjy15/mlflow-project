@@ -9,6 +9,9 @@ import joblib
 from mlProject.entity.config_entity import ModelEvaluationConfig
 from mlProject.utils.common import save_json
 from pathlib import Path
+import dagshub
+
+
 
 
 class ModelEvaluation:
@@ -31,6 +34,8 @@ class ModelEvaluation:
 
         mlflow.set_registry_uri(self.config.mlflow_uri)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
+
+        dagshub.init(repo_owner='christianwjy15', repo_name='mlflow-project', mlflow=True)
 
         with mlflow.start_run():
 
